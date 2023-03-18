@@ -1,0 +1,30 @@
+<software for fx505GE>
+Intel Graphic Driver:
+https://drivers.softpedia.com/get/GRAPHICS-BOARD/INTEL/ASUS-TUF-Gaming-FX505GE-Intel-Graphics-Driver-25-20-100-6374-for-Windows-10-64-bit.shtml#download
+
+Site:
+https://www.asus.com/us/laptops/for-gaming/tuf-gaming/asus-tuf-gaming-fx505/helpdesk_download/?model2Name=ASUS-TUF-Gaming-FX505
+
+LAN :
+https://dlcdnets.asus.com/pub/ASUS/GamingNB/Image/Driver/Networking/27930/WirelessLan_ROG_Intel_Z_V22.130.0.5_27930_1.exe?model=ASUS%20TUF%20Gaming%20FX505
+
+ChipSet:
+https://dlcdnets.asus.com/pub/ASUS/GamingNB/DriverforWin10/RapidStorage/RapidStorage_Intel_CFL_W10_64_V16801000.zip?model=ASUS%20TUF%20Gaming%20FX505
+
+Audio:
+https://dlcdnets.asus.com/pub/ASUS/GamingNB/FX505GD/Audio_D_Realtek_DTS_CFL_W10_64_V6018639.zip?model=ASUS%20TUF%20Gaming%20FX505
+
+Point:
+https://dlcdnets.asus.com/pub/ASUS/GamingNB/DriverforWin10/TouchPad/PrecisionTouchPad_ROG_ASUS_W10_64_V110030.zip?model=ASUS%20TUF%20Gaming%20FX505
+
+ATK:
+https://dlcdnets.asus.com/pub/ASUS/GamingNB/DriverforWin10/ASUSKeyboardHotkeys/ASUSKeyboardHotkeys_ASUS_CFL_W10_64_V2050.zip?model=ASUS%20TUF%20Gaming%20FX505
+
+Bluetooth:
+https://dlcdnets.asus.com/pub/ASUS/GamingNB/Image/Driver/Bluetooth/27929/Bluetooth_ROG_Intel_Z_V22.130.0.2_27929_1.exe?model=ASUS%20TUF%20Gaming%20FX505
+
+Utilities:
+https://dlcdnets.asus.com/pub/ASUS/GamingNB/Image/Software/SoftwareandUtility/14876/ASUSSystemControlInterface_ASUS_Z_V1.1.11.0_14876.exe?model=ASUS%20TUF%20Gaming%20FX505
+
+Others:
+https://dlcdnets.asus.com/pub/ASUS/GamingNB/DriverforWin10/IRST/IRST_Intel_W10_64_V17001072.zip?model=ASUS%20TUF%20Gaming%20FX505
